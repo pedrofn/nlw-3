@@ -1,6 +1,8 @@
 # NLW-3
 🏠  **Find orphanages for careful kids.**
 
+![LandingPage](./public/images/happy.png)
+
 ### Introduction and objetive
 
 > Next level week, was a free programing event on practice from *Rocketseat* that was gave classes teaching and passing basic knowledge about some technologies
