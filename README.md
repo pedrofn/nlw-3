@@ -1,7 +1,7 @@
 # NLW-3
 🏠  **Find orphanages for careful kids.**
 
-![LandingPage](./public/images/happy.png)
+![LandingPage](./public/images/happy.PNG)
 
 ### Introduction and objetive
 
